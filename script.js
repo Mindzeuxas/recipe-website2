@@ -269,5 +269,23 @@ Patarimai:
     3.	Supjaustyti sustingusią želę nedideliais gabalėliais ir įmaišyti į varškės masę.
     4.	Kekso formą iškloti maistine plėvele ir supilti varškės masė. Palikti stingti šaldytuve.`);
     // 16 ==========================================================================================================================
+    addRecipe('Greita čili sriuba su mėsa ir fermentiniu sūriu', 'img/16.jpg', [
+        '7/10 litro pomidorų sulčių (arba pomidorų tyrės)',
+        '300 gramų kiaulienos faršo',
+        '1 stiklinė	konservuotų pupelių (arba virtų)',
+        '1 vienetas	svogūnų',
+        '1 vienetas	aitriosios paprikos',
+        '2 skiltelės česnako',
+        '1 žiupsnelis druskos',
+        'šiek tiek petražolių',
+        'šiek tiek krapų',
+        ' ',
+        'Pabarstymui:',
+        '50 gramų sūrio (tarkuoto)'
+    ], `Paruošimo laikas: Apie 30 min.
+    1.	Pakepiname susmulkintą svogūną ir česnaką apie 3 minutes. Tuomet sudedame faršą ir, nuolat maišant, apie 10 minučių gerai apkepiname keptuvėje.
+    2.	Mėsos masę reikia sukrėsti į puodą su užvirintomis pomidorų sultimis. Jei norite skystesnės sriubos, galite jas šiek tiek atskiesti vandeniu. O jeigu norisi dar tirštesnės sriubos, galite vietoje sulčių naudoti trintuvu susmulkintus konservuotus pomidorus arba pirktinę pomidorų tyrę.
+    3.	Į puodą sukrėskite konservuotas pupeles, smulkintą čili pipirą, įmaišykite pomidorų padažą. Maišant pavirkite ant nedidelės ugnies apie 10 minučių. Įberkite druską, įmaišykite petražoles, bei krapus.
+    4.	Kai sriubą supilstysite į dubenėlius, apibarstykite tarkuotu fermentiniu sūriu.`);
     
 });
