@@ -184,4 +184,90 @@ Patarimai:
     ], `Paruošimo laikas: Apie 20 min.
     1.	Vaflius pertepti kondensuotu pienu ir sudėti vieną ant kito.
     2.	Grietinėlę standžiai išplakti ir ja aptepti tortą. Torto viršų pabarstyti sausainių trupiniais, o šonus - trupiniais bei sausoje keptuvėje paskrudintais riešutais. Skanaus.`);
+    // nine ==============================================================================================================
+    addRecipe('Greitos bandelės', 'img/09.jpg', [
+        '400 g  tešlos',
+        '100 g juodūjų serbentų',
+        '100 g abrikosų marmelado'
+    ], `Sluoksniuotą tešlą supjaustome kvadračiukais. Kampukus užlenkiam, kad neišbėgtų įdaras. Dedame po šaukštą marmelado. Į vieną - serbentų marmelado, į kitą - abrikosų. Kepame 200 laipsniu orkiatėje 12 - 15 min. Skanaus`);
+    // ten ================================================================================================================
+    addRecipe('Spurgos „Lengvai ir greitai“', 'img/10.jpg', [
+        '600 gramų varškės',
+        '15 šaukštų miltų',
+        '2 vienetai kiaušinių',
+        '1 šaukštas	acto',
+        '1 šaukštelis sodos',
+        ' ',
+        'Kepimui:',
+        '500 mililitrų aliejaus',
+        ' ',
+        'Pabarstymui:',
+        'šiek tiek cukraus pudros'
+    ], `Paruošimo laikas: Apie 30 min.
+    1.	Į dubenėlį su varške įmušame kiaušinius, nugesiname sodą su trupučiu acto arba citrinos sulčių ir viską išmaišome. Į masę beriame miltus ir minkome tol, kol tešla bus tinkama kočioti. Jei reikia, berti dar šiek tiek miltų.
+    2.	Tešlą iškočiojame maždaug 1 cm storio, padarome puoduku spurgos formą, vidury padarome skylutę ir dedame į puodą su įkaitusiu aliejumi.
+    3.	Pabarstome cukraus pudra.`);
+    // eleven ============================================================================================================================
+    addRecipe('Greita Vezuvijaus pica', 'img/11.jpg', [
+        'Daktariškos dešros',
+        'Fermentinio sūrio',
+        'Picos prieskonių',
+        '1 šaldytas picos padas',
+        'Majonezo', 'Kečupo'
+    ], `Taigi, kaip žinote yra tokia populiari pica "Vezuvijaus" pica. Sugalvojau pagaminti palengvintą variantą. Pirmiausiai ant šaldyto picos pado užtepame kečupą ir majonezą plonesniu sluoksniu, sudedame smulkintą dešrą, užtarkuojame sūrį, pabarstome picos prieskoniais ir šauname į orkaitę. Galite valgyti su mėgstamu padažu arba sumaisyti kečupą, majonezą ir įberti picos prieskonių.`);
+    // twelve ========================================================================================================================
+    addRecipe('Greitas varškės apkepas', 'img/12.jpg', [
+        '3 kiaušiniai',
+        'Grietinė, 1 stiklinė',
+        'Varškė, 600 g',
+        'Manų kruopos, 5 šaukštai',
+        'Cukrus, 4 šaukštai',
+        'Druska, žiupsnelis'
+    ], `Paruošimo laikas: Apie 45 min.
+    Viską suverčiame į dubenį. Gerai išmaišome. Supilame į skardą, kuri prieš tai patepta riebalais, ir pašauname į įkaitintą orkaitę. Kepti 180 C temperatūroje apie 40 min.`);
+    // 13 ============================================================================================================
+    addRecipe('Greitas omletas', 'img/13.jpg', [
+        'Kiaušiniai, 4 vienetai',
+        'Cukraus pudra, 4 šaukšteliai',
+        'Sviestas, 2 šaukštai'
+    ], `Tryniai išsukami su cukraus pudra ir sumaišomi su atskirai išplaktais baltymais. Iš gautos masės labai karštoje keptuvėje iškepami 2 omletai. Jie tučtuojau paduodami kartu su užgėrimu.`);
+    // 14 ========================================================================================================================
+    addRecipe('Ukrainietiški barščiai (klasikinis receptas)', 'img/14.jpg', [
+        '500 gramų jautienos',
+        '500 gramų kiaulienos',
+        '300 gramų kopūstų',
+        '200 gramų bulvių',
+        '2 vienetai burokėlių',
+        '1 vienetas	morkų',
+        '1 vienetas	svogūnų',
+        '1 vienetas	paprikos',
+        '1 šaukštas	pomidorų pastos',
+        '1 šaukštas pomidorų pastos',
+        'šiek tiek aliejaus',
+        'šiek tiek lauro lapų',
+        'šiek tiek druskos',
+        'šiek tiek pipirų'
+    ], `Paruošimo laikas: Daugiau nei 1 val.
+    1.	Mėsą supjaustykite kubeliais sudėkite į gilų puodą, užpilkite 3 litrais šalto vandens, užvirinkite, kaitrą sumažinkite ir virkite 2 valandas. Po 2 valandų mėsa bus minkštutėlė, o puode susidarys sodrus sultinys, kurį beliks papildyti daržovėmis.
+    2.	Burokėlius nulupkite, sutarkuokite arba supjaustykite šiaudeliais. Dėkite į keptuvę su šaukštu įkaitinto aliejaus, keletą minučių pakaitinkite, uždenkite dangčiu ir palikite pasitroškinti apie 10 min., tuomet įmaišykite pomidorų pastą ir viską troškinkite uždengę dar 20 min. Atidėkite.
+    3.	Į 2 valandas lėtai virusį puodą sudėkite plonais šiaudeliais pjaustytus kopūstus, tuomet - šiaudeliais ar kubeliais pjaustytas bulves. Virkite kol suminkštės.
+    4.	Morką nuskuskite ir supjaustykite šiaudeliais, svogūną - pusžiedžiais. Atskiroje keptuvėje apkepinkite aliejuje. Apkepintas daržoves sudėkite į puodą. Į puodą taip pat dėkite nedideliais šiaudeliais supjaustytą papriką.
+    5.	Į puodą sudėkite iš anksto su pomidorų pasta patroškintus burokėlius. Virkite dar 10 minučių. Barščius pagardinkite keliais lauro lapeliais, druska, pipirais, kaitrą išjunkite, puodą uždenkite ir palikite pastovėti 20 minučių.
+    6.	Ukrainietiški barščiai tradiciškai tiekiami su šaukštu riebios grietinės ir česnakiniu sviestu apteptomis, šiltomis mielinėmis bandelėmis`);
+    // 15 ==============================================================================================================================
+    addRecipe('Greitas nekeptas varškės pyragas su žele gabaliukais ir baltu šokoladu', 'img/15.jpg', [
+        '500 gramų kreminės varškės',
+        '200 mililitrų grietinėlės',
+        '50 gramų balto šokolado',
+        '16 gramų želatinos',
+        'šiek tiek vanilės esencijos',
+        'šiek tiek cukraus',
+        '3 pakeliai	želės (įvairių skonių)'
+    ], `Paruošimo laikas: Apie 1 val.
+    1.	Iš anksto paruošti želė pagal nurodymus ant pakuotes, naudojant pusę nurodyto vandens kiekio. Palikti šaldytuve sustingti.
+    2.	Grietinėlę supilti į prikaistuvį, berti želatiną ir palikti 10 minučių, kad išbrintų. Išbrinkusią kaitinti ant nedidelės ugnies, vis maišant, kol ištirps. Išjungti kaitinimą, dėti laužytą šokoladą, maišyti kol ištirps, atvėsinti. Sumaišyti su varške, vanile, cukrumi.
+    3.	Supjaustyti sustingusią želę nedideliais gabalėliais ir įmaišyti į varškės masę.
+    4.	Kekso formą iškloti maistine plėvele ir supilti varškės masė. Palikti stingti šaldytuve.`);
+    // 16 ==========================================================================================================================
+    
 });

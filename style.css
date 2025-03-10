@@ -57,6 +57,8 @@ body.light-theme .component {
 
 .component:hover {
     transform: translateY(-5px);
+    z-index: 999;
+
 }
 
 /* Card image */
@@ -79,6 +81,16 @@ body.light-theme .component {
     width: 100%;
 }
 
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    z-index: 10;
+    display: none;
+}
 
 .expand-btn:hover {
     background-color: #ff6347;
