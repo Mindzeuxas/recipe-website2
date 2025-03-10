@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  },
+  "name": "recipe-website2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=5054",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
